@@ -7,4 +7,4 @@ faraday_constant = 96485.3321233100184
 molar_Planck_constant = 3.9903127128934314 * 10 ** -10
 elementary_charge = 1.602176634 * 10 ** -19
 speed_of_light_in_vacuum = 299792458
-molar_gas_constant = 8.31446261815324
+acceleration_of_gravity = 9.8
